@@ -1,0 +1,21 @@
+
+# Ignore the input.txt file
+input.txt
+
+# Ignore the compiled executable file named 'hello'
+Q1
+
+
+
+# Ignore object files and build directories
+*.o
+/build/
+/bin/
+
+# Ignore all executables
+*.exe
+*.out
+
+# Ignore editor-specific files and directories
+.vscode/
+*.vscode-*
